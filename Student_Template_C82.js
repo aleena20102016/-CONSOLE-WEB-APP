@@ -24,7 +24,7 @@ Then, print the variable to display the addition value
 Type: console.log(add)
 */
             var add = a + b;
-            var add = console.log(add);
+            
             console.log(add);
 
 /*
@@ -37,18 +37,10 @@ Then, print the variable to display the subtraction value
 Type: console.log(sub)
 */
             var sub = a - b;
-            var sub =  console.log(sub);
+            
             console.log(sub);
 
-/*
-Create a variable named multiple and store the multiplication value of a and b in that variable.
 
-Type: var multiple = a * b
-
-Then, print the variable to display the multiplication value
-
-Type: console.log(multiple)
-*/
             var multiple = a * b;
             var multiple = console.log(multiple);
             console.log(multiple);
